@@ -1,2 +1,4 @@
-## Data Structures
-1. Binary Search Tree
+## Data Structures (to be covered)
+* Binary Search Tree
+* Hash Tables
+* Tries
