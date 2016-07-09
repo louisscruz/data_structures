@@ -17,7 +17,7 @@
 * Successor
 * Predecessor
 
-## Time Complexity of Data Structures
+## Complexity of Data Structures
 
 Yes, the layout of this table comes from [Bigocheatsheet.com](http://www.bigocheatsheet.com).
 
