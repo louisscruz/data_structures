@@ -1,3 +1,6 @@
+# Stacks
+
+## Time Complexity
 | Average Case |          |            |          | Worst Case   |          |            |          |
 | ------------ | -------- | ---------- | -------- | ------------ | -------- | ---------- | -------- |
 | Access       | Search   | Insertion  | Deletion | Access       | Search   | Insertion  | Deletion |   
