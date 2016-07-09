@@ -1,4 +1,5 @@
 # Stacks
+This implementation of a stack is statically-sized.
 
 ## Complexity
 | Time Complexity  |            |               |              |                  |            |               |              | Space Complexity |
