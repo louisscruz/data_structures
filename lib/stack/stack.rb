@@ -26,6 +26,31 @@ class Stack
     popped
   end
 
+  def search(x)
+    return nil if empty?
+    (0..@top).find { |i| @store[i] == x }
+  end
+
+  def min
+    return nil if empty?
+    min = nil
+    (0..@top).each do |i|
+      current = @store[i]
+      min = current if min == nil || current < min
+    end
+    min
+  end
+
+  def max
+    return nil if empty?
+    max = nil
+    (0..@top).each do |i|
+      current = @store[i]
+      max = current if max == nil || current > max
+    end
+    max
+  end
+
   private
 
   def full?

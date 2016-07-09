@@ -1,7 +1,18 @@
 ## Data Structures (to be covered)
-* Binary Search Tree
+* Binary Search Trees
 * Linked Lists
-  * Single Linked List
-  * Double Linked List
+  * Single Linked Lists
+  * Double Linked Lists
 * Hash Tables
+* Queues
+* Stacks
 * Tries
+
+## Methods for Data Structures
+* Search
+* Insert
+* Delete
+* Min
+* Max
+* Successor
+* Predecessor
